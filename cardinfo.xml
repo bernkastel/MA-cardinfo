@@ -884,6 +884,12 @@
 	<force>技巧之场</force>
     <cost>15</cost>
   </card>
+    <card>
+    <id>630</id>
+    <name>学徒型琪妮安</name>
+	<force>魔法之派</force>
+    <cost>22</cost>
+  </card>
   <card>
     <id>634</id>
     <name>学徒型阿瓦娜</name>
